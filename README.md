@@ -1,6 +1,6 @@
 ### Hi! I'm Gregg 😀
 
-- 🤓 My focus is on JavaScript, React, Redux, Node, MongoDB.  
+- 🤓 My expertise is in JavaScript, React, Redux, Node, MongoDB, HTML5, CSS3.  
 - 🔥 Check out my coding channel on YouTube: <a href="https://www.youtube.com/channel/UCmOpHGj4JRWCdXhllVTZCVw/videos">The Code Creative</a>
 - 👯 I’m always interested in collaboration: <a href="mailto: gregg@greggfinedev.com">Reach out!</a>
 - 💼 Check out my developer portfolio: <a href="https://greggfinedev.com/">Gregg Fine Dev</a>
