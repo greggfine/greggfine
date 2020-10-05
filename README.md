@@ -1,9 +1,7 @@
-### Hi! I'm Gregg 👋
+### Hi! I'm Gregg 😀
 
+- 🤓 My focus is on JavaScript, React, Redux, Node, MongoDB.  
 - 🔥 Check out my coding channel on YouTube: <a href="https://www.youtube.com/channel/UCmOpHGj4JRWCdXhllVTZCVw/videos">The Code Creative</a>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m always interested in collaboration: <a href="mailto: gregg@greggfinedev.com">Reach out!</a>
-- 💬 Ask me about ...
 - 📫 How to reach me: <a href="mailto: gregg@greggfinedev.com">Let's talk!</a>
-- 🎵 Fun fact: I have extensive background as a musician/producer. Check out my music at: <a href="http://hiddentigermusic.com/">Hidden Tiger Music</a>
+- 🎵 Fun fact: I have extensive background as a musician/producer. Check out my work at: <a href="http://hiddentigermusic.com/">Hidden Tiger Music</a>
